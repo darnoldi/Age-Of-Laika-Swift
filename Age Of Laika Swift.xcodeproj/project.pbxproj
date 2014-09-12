@@ -13,6 +13,7 @@
 		0F81864819C2FE5C00CA475E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0F81864719C2FE5C00CA475E /* Images.xcassets */; };
 		0F81864B19C2FE5C00CA475E /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0F81864919C2FE5C00CA475E /* LaunchScreen.xib */; };
 		0F81865719C2FE5C00CA475E /* Age_Of_Laika_SwiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F81865619C2FE5C00CA475E /* Age_Of_Laika_SwiftTests.swift */; };
+		0F81866119C2FEB800CA475E /* AgeOfLaika.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0F81866019C2FEB800CA475E /* AgeOfLaika.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		0F81865019C2FE5C00CA475E /* Age Of Laika SwiftTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Age Of Laika SwiftTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0F81865519C2FE5C00CA475E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0F81865619C2FE5C00CA475E /* Age_Of_Laika_SwiftTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Age_Of_Laika_SwiftTests.swift; sourceTree = "<group>"; };
+		0F81866019C2FEB800CA475E /* AgeOfLaika.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AgeOfLaika.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 		0F81863E19C2FE5C00CA475E /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				0F81866019C2FEB800CA475E /* AgeOfLaika.jpg */,
 				0F81863F19C2FE5C00CA475E /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -193,6 +196,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0F81864619C2FE5C00CA475E /* Main.storyboard in Resources */,
+				0F81866119C2FEB800CA475E /* AgeOfLaika.jpg in Resources */,
 				0F81864B19C2FE5C00CA475E /* LaunchScreen.xib in Resources */,
 				0F81864819C2FE5C00CA475E /* Images.xcassets in Resources */,
 			);
